@@ -1,2 +1,2 @@
-# dajngotry
-170324 dajngotry 
+# trydajngo
+170324 trydajngo
